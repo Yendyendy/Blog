@@ -4,7 +4,6 @@ Can Chen tiene 1717,5 años, pero ya va a la universidad
 
 Hoy ha tenido una tarde horrorosa con la instalación de Visual Studio Code
 
-<<<<<<< HEAD
 Cambiamos a master utilizando el comando 
 git checkout "nombre_rama_en_este_caso_master"
 
@@ -19,7 +18,7 @@ shift + flechas selecciono el contenido, que puedo borrar, sin utilizar asi el r
 Y vamos a subir este archivo modificado con git commit -a;
 esto es un atajo para (git add; git commit), SOLO FUNCIONA CON ARCHIVOS
 QUE YA HAYAN SIDO AFECTADOS POR git add
-=======
+
 En teoría estamos en la cabecera.
 Para ello creamos primero una rama 
 empleando para ello git branch "nombre archivo"
@@ -28,5 +27,3 @@ Y para movernos a dicha rama, utilizamos git checkout
 
 Si queremos ver en que rama nos encontramos:
 tenemos el comando git show, git status
-
->>>>>>> cabecera
