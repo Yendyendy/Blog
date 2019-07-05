@@ -3,3 +3,18 @@ Esta es la historia de Can Chen
 Can Chen tiene 1717,5 años, pero ya va a la universidad
 
 Hoy ha tenido una tarde horrorosa con la instalación de Visual Studio Code
+
+Cambiamos a master utilizando el comando 
+git checkout "nombre_rama_en_este_caso_master"
+
+Y vamos a modificar el texto plano historia.texto
+que es lo que estamos haciendo ahora. Después
+vamos a intenter fusionar ambas versiones, la de master y la de cabecera.
+
+
+Ctrl + flechas me muevo más rápido.
+shift + flechas selecciono el contenido, que puedo borrar, sin utilizar asi el ratón
+
+Y vamos a subir este archivo modificado con git commit -a;
+esto es un atajo para (git add; git commit), SOLO FUNCIONA CON ARCHIVOS
+QUE YA HAYAN SIDO AFECTADOS POR git add
