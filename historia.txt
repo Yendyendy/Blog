@@ -3,3 +3,13 @@ Esta es la historia de Can Chen
 Can Chen tiene 1717,5 años, pero ya va a la universidad
 
 Hoy ha tenido una tarde horrorosa con la instalación de Visual Studio Code
+
+En teoría estamos en la cabecera.
+Para ello creamos primero una rama 
+empleando para ello git branch "nombre archivo"
+
+Y para movernos a dicha rama, utilizamos git checkout
+
+Si queremos ver en que rama nos encontramos:
+tenemos el comando git show, git status
+
